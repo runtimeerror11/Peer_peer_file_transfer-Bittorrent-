@@ -1,0 +1,2 @@
+Could not connect to Tracker 1. Trying Tracker 2.
+Could not connect to Tracker 2. Exiting.
